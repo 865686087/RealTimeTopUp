@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HydraSettings">
+    <option name="hydraStorePath" value="D:\大数据\lu上课笔记\第三阶段\三阶段项目\实时充值\code\RealTimeTopUp\.hydra\idea" />
+    <option name="noOfCores" value="2" />
+    <option name="projectRoot" value="D:\大数据\lu上课笔记\第三阶段\三阶段项目\实时充值\code\RealTimeTopUp" />
+    <option name="sourcePartitioner" value="auto" />
+  </component>
+</project>
